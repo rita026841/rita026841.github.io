@@ -1,0 +1,71 @@
+body {
+	background-image: url("../img/backgrounds.jpg");
+	background-size: cover;
+}
+
+.skyline {
+	width: 500px;
+	height: auto;
+	margin: 0 auto;
+	display: block;
+	border-color: violet;
+	border-style: dotted;
+}
+
+.mexbeach {
+	width: 500px;
+	height: auto;
+	margin: 0 auto;
+	display: block;
+	border-color: violet;
+	border-style: dotted;
+}
+
+.boat {
+	width: 500px;
+	height: auto;
+	margin: 0 auto;
+	display: block;
+	border-color: violet;
+	border-style: dotted;
+}
+.text-center{
+	color: navy;
+}
+
+
+.taj {
+	width: 500px;
+	height: auto;
+	margin: 0 auto;
+	display: block;
+	border-color: violet;
+	border-style: dotted;
+}
+
+.flower {
+	width: 500px;
+	height: auto;
+	margin: 0 auto;
+	display: block;
+	border-color: violet;
+	border-style: dotted;
+}
+
+.fest {
+	width: 500px;
+	height: auto;
+	margin: 0 auto;
+	display: block;
+	border-color: violet;
+	border-style: dotted;
+}
+
+.kos {
+	width: 500px;
+	height: auto;
+	margin: 0 auto;
+	display: block;
+	border-color: violet;
+	border-style: dotted;
+}

@@ -1,0 +1,21 @@
+
+.navbar{
+	color: yellow;
+}
+
+.my-link{
+	color: white;
+	float: left;
+	font-style: calibri
+}
+.my-nav{
+	background: pink;
+}
+
+.navbar-title {
+	color: Purple;
+}
+
+.profile {
+	float: right;
+}
